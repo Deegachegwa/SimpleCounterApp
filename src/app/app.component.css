@@ -1,0 +1,32 @@
+/* Styles for the container */
+.container {
+    background-color: #564c83; /* Jungle Green */
+    padding: 20px;
+    border-radius: 10px;
+    
+    /* Center the content */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertical centering */
+    align-items: center; /* Horizontal centering */
+    height: 100vh; /* Full viewport height to center vertically */
+  }
+  h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+
+  }
+  h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+  }
+  button{
+    background-color: blue;
+    
+  }
+  
+  /* Text styles */
+  .text-white {
+    color: rgb(12, 11, 11);
+  }
+  
